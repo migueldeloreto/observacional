@@ -1,0 +1,42 @@
+qflat_300_s084.0046.fits: May 20 19:29 Trim data section is [1:4142,1:1896]
+qflat_300_s084.0046.fits: May 20 19:30 Trim data section is [1:4142,1:1896]
+qflat_300_s084.0046.fits: May 20 19:31 Trim data section is [1:4142,1:1896]
+
+May 20 19:33: IMCOMBINE
+  combine = median, scale = mode, zero = none, weight = none
+  reject = crreject, mclip = yes, nkeep = 1
+  rdnoise = 0., gain = 1., snoise = 0., hsigma = 3.
+  blank = 1.
+                Images     Exp    Mode  Scale
+  qflat_300_s084.0046.fits    8.0   2393.  1.129
+  qflat_300_s084.0047.fits    8.0   2393.  1.129
+  qflat_300_s084.0048.fits    8.0   2394.  1.129
+  qflat_300_s084.0049.fits    8.0   2391.  1.130
+  qflat_300_s084.0050.fits    8.0   2390.  1.130
+  qflat_300_s084.0051.fits    8.0   2390.  1.130
+  qflat_300_s084.0052.fits    8.0   2393.  1.129
+  qflat_300_s084.0053.fits    8.0   2393.  1.129
+  qflat_300_s084.0054.fits    8.0   2394.  1.129
+  qflat_300_s084.0055.fits    8.0   2390.  1.130
+  qflat_300s135.0099.fits    6.0   3027.  0.893
+  qflat_300s135.0100.fits    6.0   3043.  0.888
+  qflat_300s135.0101.fits    6.0   3041.  0.888
+  qflat_300s135.0102.fits    6.0   3042.  0.888
+  qflat_300s135.0103.fits    6.0   3042.  0.888
+  qflat_300s135.0104.fits    6.0   3044.  0.888
+  qflat_300s135.0105.fits    6.0   3042.  0.888
+  qflat_300s135.0106.fits    6.0   3045.  0.887
+  qflat_300s135.0107.fits    6.0   3044.  0.888
+  qflat_300s135.0108.fits    6.0   3046.  0.887
+  qflat_300_s3.0034.fits    3.0   2662.  1.015
+  qflat_300_s3.0035.fits    3.0   2668.  1.013
+  qflat_300_s3.0036.fits    3.0   2665.  1.014
+  qflat_300_s3.0037.fits    3.0   2669.  1.012
+  qflat_300_s3.0038.fits    3.0   2677.  1.009
+  qflat_300_s3.0039.fits    3.0   2677.  1.009
+  qflat_300_s3.0040.fits    3.0   2673.  1.011
+  qflat_300_s3.0041.fits    3.0   2684.  1.007
+  qflat_300_s3.0042.fits    3.0   2668.  1.013
+  qflat_300_s3.0043.fits    3.0   2675.  1.010
+
+  Output image = Flat, ncombine = 30
